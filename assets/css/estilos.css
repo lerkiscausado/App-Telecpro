@@ -1,0 +1,36 @@
+.box-grilla{    
+    padding: 10px;
+    width: 100%;
+}
+.form-control-sm{
+    height: 30px;
+    font-size: 12px;
+}
+.form-group label {
+    font-size: 12px;
+    line-height: 1;
+    vertical-align: top;
+    margin-bottom: 0px; }
+.form-group{
+    margin-bottom: 2px;
+}
+.text_label{
+    line-height: 1.5;
+    font-size: 12px;
+    color: brown;
+}
+.text_titulo{    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;    
+    font-weight:300;
+    height: 10px;
+
+}
+.text-titulo-grilla{
+    font-style: normal;
+    font-weight: 600;
+    ;
+
+}
+.select2-hidden-accessible{
+    height: 50px;
+}
